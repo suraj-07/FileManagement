@@ -1,0 +1,11 @@
+    1
+121   12321 
+1234321 
+int count=1;
+// 1
+pop= 1
+print 1
+count++;
+ 121
+ print 
+ push (12)
